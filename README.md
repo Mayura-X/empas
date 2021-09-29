@@ -1,5 +1,3 @@
-#  SCRIPT EMPASS MOONTON
-
 ## ⇨  Install Script Termux
 
 $ pkg update && upgrade  
